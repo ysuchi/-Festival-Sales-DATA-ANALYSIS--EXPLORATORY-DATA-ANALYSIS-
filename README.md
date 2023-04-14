@@ -1,4 +1,4 @@
-# -Festival-Sales-PYTHON--EXPLORATORY-DATA-ANALYSIS-
+# -Festival-Sales-[DATA ANALYSIS WITH PYTHON]-
 
 1. Performed data cleaning and manipulation.
 2. Performed exploratory data analysis(EDA) using Pandas , Matplotlib, and Seabrn Libararies.
